@@ -1,0 +1,83 @@
+- id: matprat/huevos-rancheros
+  url: https://www.matprat.no/oppskrifter/familien/huevos-rancheros-pa-primus/
+  method: json-ld
+  name: "Huevos rancheros på primus"
+  image: https://images.matprat.no/e278m5anyd
+  expected:
+    - "1 boks chilibønner (á 390 g)"
+    - "1 boks hermetiske kikerter (á 290 g)"
+    - "1 glass salsa (á 230 g)"
+    - "4 stk. egg"
+    - "1 stk. vårløk"
+    - "2 ss hakket frisk koriander"
+    - "1 stk. avokado"
+    - "1 dl lettrømme"
+    - "4 stk. hvetetortilla"
+- id: godfisk/poke-bowl-med-laks
+  url: https://www.godfisk.no/oppskrifter/laks/poke-bowl-med-laks/
+  method: json-ld
+  expected:
+    - "500 g laksefilet, uten skinn og bein"
+    - "4 pors ris"
+    - "2 stk mango"
+    - "2 stk avokadoer"
+    - "1 stk granateple"
+    - "1 stk agurk"
+    - "10 stk sukkererter"
+    - "1 stk lime"
+    - "koriander, frisk"
+    - "4 ss soyasaus, lys"
+    - "2 ss sesamolje"
+    - "2 ss sesamfrø"
+    - "0.5 ss chilisaus"
+- id: godt.no/godt-stekt-laks
+  url: https://www.godt.no/oppskrifter/fisk/laks/9254/rask-laksemiddag-med-blomkaalris
+  method: json-ld
+  expected:
+    - "800 g laks"
+    - "2 ss smør"
+    - "3 fedd hvitløk"
+    - "4 ss honning"
+    - "4 ss soyasaus"
+    - "1 ss chilisaus"
+    - "1 stk lime"
+    - "1 håndfull urter"
+    - "1 stk blomkål"
+    - "200 g spinat"
+    - "1 dæsj olivenolje"
+    - "salt"
+    - "pepper"
+    - "peanøtter"
+- id: tine/amerikanske-pannekaker
+  url: https://www.tine.no/oppskrifter/lunsj-og-smaretter/omeletter-og-pannekaker/amerikanske-pannekaker
+  method: json-ld
+  expected:
+    - "50 g TINE® Meierismør"
+    - "2.5 dl TINE® Helmelk 3,5 % fett eller Tinemelk® Økologisk Helmelk"
+    - "2 stk egg"
+    - "3 dl hvetemel"
+    - "2 ts bakepulver"
+    - "0.5 ts salt"
+    - "1 ss sukker"
+    - "2 ss lønnesirup eller nyrørt syltetøy"
+    - "4 ss valnøtter"
+- id: matprat/steinbit
+  url: https://www.matprat.no/oppskrifter/kos/steinbit-med-asiatiske-smaker/
+  method: json-ld
+  name: Steinbit med asiatiske smaker
+  image: https://images.matprat.no/ft4nkzz45n
+  expected:
+    - "800 g steinbitfilet"
+    - "2 stk. gulrot"
+    - "3 stk. vårløk"
+    - "50 g sukkererter"
+    - "1 stk. grønn chili"
+    - "2,5 dl mangochutney"
+    - "1,5 dl soyasaus"
+    - "2 ss eplecidereddik eller limejuice"
+    - "2 båter finhakket hvitløk"
+    - "2 ss revet frisk ingefær"
+    - "ca. 1 dl vann"
+    - "2 ss nøytral olje til steking"
+    - "1 ss svarte sesamfrø eller hvite"
+    - "0,5 potte frisk koriander"
